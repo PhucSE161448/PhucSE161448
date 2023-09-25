@@ -1,10 +1,9 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h1 align="center">Hi 👋, I'm Minh Phuc</h1>
 <h3 align="center">I'm A Software Engineer From Vietnam</h3>
+
 - 🌱 I’m currently learning **C#.Net, JS**
-
 - 📫 How to reach me **lamminhphuc285@gmail.com**
-
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
